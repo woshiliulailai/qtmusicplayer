@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/all.png</file>
+        <file>res/back.png</file>
+        <file>res/full.png</file>
+        <file>res/next.png</file>
+        <file>res/pre.png</file>
+        <file>res/recycle.png</file>
+        <file>res/set.png</file>
+        <file>res/start.png</file>
+        <file>res/stop.png</file>
+        <file>res/background1.png</file>
+        <file>res/background2.png</file>
+        <file>res/background3.png</file>
+        <file>res/background4.png</file>
+        <file>res/background5.png</file>
+        <file>res/song1.mp3</file>
+    </qresource>
+</RCC>
