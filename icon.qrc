@@ -14,6 +14,8 @@
         <file>res/background3.png</file>
         <file>res/background4.png</file>
         <file>res/background5.png</file>
-        <file>res/song1.mp3</file>
+        <file>music/ljjyuanyvchou.mp3</file>
+        <file>music/liefengzhondeyangguang.mp3</file>
+        <file>music/wohaixiangta.mp3</file>
     </qresource>
 </RCC>
